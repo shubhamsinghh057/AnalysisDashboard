@@ -50,12 +50,11 @@ a small preview of the dashboards
 ---
 
 
-``` markdown
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![Power BI](https://img.shields.io/badge/BI-Power%20BI-yellow)
 ![Tableau](https://img.shields.io/badge/BI-Tableau-blueviolet)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
-```
+
 
 
 
