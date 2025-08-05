@@ -6,6 +6,7 @@ This repository contains a sample MySQL relational database schema along with ex
 
 ## 📂 Folder Structure
 
+```
 .
 ├── Data/           # Raw data files (CSV or other formats)
 │   └── *.csv       # Individual table data files
@@ -20,7 +21,7 @@ This repository contains a sample MySQL relational database schema along with ex
 ├── dashboard.pbix  # Power BI dashboard
 ├── dashboard.twb   # Tableau workbook
 ├── Readme.md       # Project documentation
-
+```
 
 
 
