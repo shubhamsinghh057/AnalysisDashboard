@@ -4,16 +4,23 @@ This repository contains a sample MySQL relational database schema along with ex
 
 ## 📂 Folder Structure
 
+## 📂 Folder Structure
+
 .
-├── Data/ — Raw data files (CSV or other formats)
-│ └── *.csv — Individual table data files
-├── icons/ — Icons and resource images
-├── Schema/ — Database schema and import files
-│ ├── Data.rar — Compressed archive of all data files
-│ ├── Schema.png — ER diagram of the database
-│ └── mysqlsampledatabase.sql — SQL script to create/populate the DB
-├── dashboard.pbix — Power BI dashboard
-├── dashboard.twd — Tableau workbook
+├── Data/           # Raw data files (CSV or other formats)
+│   └── *.csv       # Individual table data files
+├── icons/          # Icons and resource images
+├── Schema/         # Database schema and import files
+│   ├── Data.rar            # Compressed archive of all data files
+│   ├── Schema.png          # ER diagram of the database
+│   └── mysqlsampledatabase.sql # SQL script to create/populate the DB
+├── Screenshots/    # Dashboard preview images
+│   ├── SS1.png
+│   └── SS2.png
+├── dashboard.pbix  # Power BI dashboard
+├── dashboard.twb   # Tableau workbook
+├── Readme.md       # Project documentation
+
 
 
 
