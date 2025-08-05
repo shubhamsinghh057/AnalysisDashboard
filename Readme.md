@@ -44,8 +44,8 @@ The database models a classic order management system with the following tables:
 
 a small preview of the dashboards 
 
-![Screenshot of Power BI Dashboard](Screenshots/SS1.png)
-![Screenshot of Power BI Dashboard](Screenshots/SS2.png)
+![Screenshot of Power BI Dashboard](Screenshots/SS1.jpeg)
+![Screenshot of Power BI Dashboard](Screenshots/SS2.jpeg)
 
 ---
 
