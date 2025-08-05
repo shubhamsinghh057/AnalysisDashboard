@@ -44,18 +44,18 @@ The database models a classic order management system with the following tables:
 
 a small preview of the dashboards 
 
-![Power BI Dashboard](dashboard.pbix)
-![Tableau Dashboard](dashboard.twd)
+![Screenshot of Power BI Dashboard](Screenshots/SS1.png)
+![Screenshot of Power BI Dashboard](Screenshots/SS2.png)
 
 ---
 
 
-```markdown
+``` markdown
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![Power BI](https://img.shields.io/badge/BI-Power%20BI-yellow)
 ![Tableau](https://img.shields.io/badge/BI-Tableau-blueviolet)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
-
+```
 
 
 
